@@ -1,0 +1,31 @@
+* {
+    font-family: Tahoma, monospace;
+    
+  }
+  
+  h1, h2, thead {
+    text-align: center;
+  }
+  
+  h2 {
+    color: salmon;
+  }
+  
+  table {
+    outline: 3px solid salmon;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  thead {
+    background-color: pink;
+    font-weight: bold;
+  }
+  
+  tr {
+    outline: 1px solid pink;
+  }
+  
+  .code {
+    background-color: #E6F68B;
+  }
